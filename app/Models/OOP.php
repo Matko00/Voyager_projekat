@@ -6,7 +6,3 @@
 //Izmena
 //Jos teksta
 //hello, hello
-//Cao
-//voyager
-//laravel
-//promena
